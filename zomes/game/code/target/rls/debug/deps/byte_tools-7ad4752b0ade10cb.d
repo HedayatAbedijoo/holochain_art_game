@@ -1,0 +1,11 @@
+/home/hedayat/holo/tutorial/art_game/zomes/game/code/target/rls/debug/deps/byte_tools-7ad4752b0ade10cb.rmeta: /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/lib.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_single.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_single.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_slice.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_slice.rs
+
+/home/hedayat/holo/tutorial/art_game/zomes/game/code/target/rls/debug/deps/libbyte_tools-7ad4752b0ade10cb.rlib: /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/lib.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_single.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_single.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_slice.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_slice.rs
+
+/home/hedayat/holo/tutorial/art_game/zomes/game/code/target/rls/debug/deps/byte_tools-7ad4752b0ade10cb.d: /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/lib.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_single.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_single.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_slice.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_slice.rs
+
+/home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/lib.rs:
+/home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_single.rs:
+/home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_single.rs:
+/home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_slice.rs:
+/home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_slice.rs:

@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/hedayat/holo/tutorial/art_game/zomes/game/code/target/rls/debug/build/typenum-9c7f61af9f8cacfa/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/hedayat/holo/tutorial/art_game/zomes/game/code/target/rls/debug/build/typenum-9c7f61af9f8cacfa/out/op.rs

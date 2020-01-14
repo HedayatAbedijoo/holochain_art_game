@@ -1,0 +1,2 @@
+cargo:rustc-env=GIT_HASH=
+cargo:rustc-env=HDK_VERSION=

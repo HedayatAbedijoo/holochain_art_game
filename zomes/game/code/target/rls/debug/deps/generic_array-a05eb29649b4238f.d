@@ -1,0 +1,11 @@
+/home/hedayat/holo/tutorial/art_game/zomes/game/code/target/rls/debug/deps/generic_array-a05eb29649b4238f.rmeta: /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/lib.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/hex.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/impls.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/arr.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/iter.rs
+
+/home/hedayat/holo/tutorial/art_game/zomes/game/code/target/rls/debug/deps/libgeneric_array-a05eb29649b4238f.rlib: /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/lib.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/hex.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/impls.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/arr.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/iter.rs
+
+/home/hedayat/holo/tutorial/art_game/zomes/game/code/target/rls/debug/deps/generic_array-a05eb29649b4238f.d: /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/lib.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/hex.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/impls.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/arr.rs /home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/iter.rs
+
+/home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/lib.rs:
+/home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/hex.rs:
+/home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/impls.rs:
+/home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/arr.rs:
+/home/hedayat/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.9.0/src/iter.rs:
